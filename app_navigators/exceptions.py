@@ -1,0 +1,2 @@
+class AppHandlerException(Exception):
+    pass

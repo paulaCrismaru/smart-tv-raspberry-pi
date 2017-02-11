@@ -1,0 +1,5 @@
+argparse==1.2.1
+envparse==0.2.0
+requests==2.13.0
+selenium==3.0.2
+wsgiref==0.1.2
